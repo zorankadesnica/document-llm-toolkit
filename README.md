@@ -2,7 +2,7 @@
 
 **Document-Level LLM Evaluation and Processing Framework**
 
-Framework for document processing, statistical A/B testing, coherence analysis, and LLM-as-Judge evaluation. Built with FastAPI and designed for rigorous evaluation of language model outputs.
+Framework for document processing, statistical A/B testing, coherence analysis, and LLM-as-Judge evaluation. Built with FastAPI and designed for evaluation of language model outputs.
 
 ---
 
