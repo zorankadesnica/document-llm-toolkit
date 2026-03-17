@@ -23,7 +23,7 @@ Framework for document processing, statistical A/B testing, coherence analysis, 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/doc-copilot-ai.git
+git clone https://github.com/zorankadesnica/doc-copilot-ai.git
 cd doc-copilot-ai
 
 # Create virtual environment
